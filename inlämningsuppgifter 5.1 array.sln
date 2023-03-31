@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inlämningsuppgifter 5.1 array", "inlämningsuppgifter 5.1 array\inlämningsuppgifter 5.1 array.csproj", "{F1E89CB9-2308-4C47-9E58-569A52A1BD31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1E89CB9-2308-4C47-9E58-569A52A1BD31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E89CB9-2308-4C47-9E58-569A52A1BD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E89CB9-2308-4C47-9E58-569A52A1BD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E89CB9-2308-4C47-9E58-569A52A1BD31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3524438-048E-4113-8812-221C915B2D93}
+	EndGlobalSection
+EndGlobal
